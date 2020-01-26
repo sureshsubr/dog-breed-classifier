@@ -15,8 +15,8 @@ In this project, we'll how to build a pipeline to process real-world, user-suppl
 1. Set up the Jupyter ipython notebook environment
 2. Load and prepare the data using pytorch
 3. Use VGG-16 pretained model to test the data
-4. Build, train and test the CNN from scratch
-5. Build, train and test the CNN using Tranfer Learning
+4. Build, train and test the CNN from scratch using pytorch
+5. Build, train and test the CNN using Tranfer Learning using pytorch
 6. Train the network using training and validation dataset
 7. Test the network for accuracy using test dataset
 
